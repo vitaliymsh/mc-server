@@ -1,0 +1,4 @@
+RLCraft_DecentCaveSpider,3941,3941,4611,4611
+RLCraft_UndergroundRuin2,3936,3943,4606,4616
+StoneLeafMound,3693,3702,4925,4932
+StoneBoulder,3707,3716,4923,4932
